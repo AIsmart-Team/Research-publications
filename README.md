@@ -19,7 +19,6 @@ Our team's research spans several key areas, including:
     **Venue:** Transportation Research Part D: Transport and Environment
     **Year:** 2025
     **DOI:** [https://doi.org/10.1016/j.trd.2025.104662](https://doi.org/10.1016/j.trd.2025.104662)
-    **PDF (Optional):** [Link to PDF (if available and permitted)]
     **BibTeX:**
 
     ```bibtex
