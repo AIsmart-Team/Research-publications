@@ -14,26 +14,7 @@ Our team's research spans several key areas, including:
 
 ## Publication List
 
-1.  **Title:**  Revealing the built environment impacts on truck emissions using interpretable machine learning
-    **Authors:** Tongtong Shi, Meiting Tu, Ye Li, Haobing Liu, Dominique Gruyer
-    **Venue:** Transportation Research Part D: Transport and Environment
-    **Year:** 2025
-    **DOI:** [https://doi.org/10.1016/j.trd.2025.104662](https://doi.org/10.1016/j.trd.2025.104662)
-    **BibTeX:**
 
-    ```bibtex
-    @article{SHI2025104662,
-    title = {Revealing the built environment impacts on truck emissions using interpretable machine learning},
-    journal = {Transportation Research Part D: Transport and Environment},
-    volume = {141},
-    pages = {104662},
-    year = {2025},
-    issn = {1361-9209},
-    doi = {https://doi.org/10.1016/j.trd.2025.104662},
-    url = {https://www.sciencedirect.com/science/article/pii/S1361920925000720},
-    author = {Tongtong Shi and Meiting Tu and Ye Li and Haobing Liu and Dominique Gruyer},
-    keywords = {Urban freight transport, Truck emissions, Built environment, Nonlinear effects, Interpretable machine learning}
-    }
     ```
 
 ## Collaboration
